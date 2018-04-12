@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Rajdhani', sans-serif;
+}
+.container {
+    
+    background-image: url("./unsplashcity.jpg");
+    height: 200vh; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ecdfc5;
+}
+.header-edge{
+    margin: 10px;
+    padding: 10px;
+}
+.navbar{
+    padding: 20px;
+    
+}
+.navlink {
+    text-decoration: none;
+    margin: 20px;
+    padding-top: 20px;
+    text-align: left;
+    color: #ecdfc5;
+    padding: 10px;
+    font-size: 30px;
+    text-align: right;
+
+}
+
+.links{
+    width: 100%;
+    text-align: right;
+}
+.navlink:visited{
+    color: #ecdfc5;
+}
+.utah-res {
+    color: #ecdfc5;
+    font-size: 30px;
+    display: flex;
+    align-items: flex-start;
+    text-decoration: none;
+ 
+}
+.header-slogan{
+    color: #ecdfc5;
+    font-size: 80px;
+    text-align: center;
+
+}
